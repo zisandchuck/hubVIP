@@ -1,4 +1,3 @@
-{
-  "allowedUsernames": ["checkzis"]
+return {
+    allowedUsernames = {"checkzis"}
 }
-
