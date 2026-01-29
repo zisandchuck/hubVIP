@@ -1,4 +1,4 @@
 return {
-    allowedUsernames = {"checkzis"}
+    allowedUsernames = {"checkzis"}, {"zis96961"}
 }
 
