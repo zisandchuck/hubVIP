@@ -1,4 +1,17 @@
 return {
-    allowedUsernames = {"zis96961", "zis9494", "sjwuxnshi", "lamluoyi", "114514robloxt", "nnmm12511", "gxv_gxg", "laobider123456", "cTc_acQ", "cTcacQ", "vvvvssss88", "hdhdjd87648", "zis96967"}
+    encryptedList = {
+        "Pxobaxsdbbszgq==",
+        "Pxobaxq0bQ==",
+        "OgoTZB8AChMa",
+        "Cg4DYwwZaw==",
+        "bT0ebT0eYAQUCBEjCRMA",
+        "JR0DZBQ0bTse",
+        "PQsXXxsuPw==",
+        "Cg4CYAwZYxQUbTQ0bTQ0",
+        "OSNXXwleOA==",
+        "OSNXXA5fOA==",
+        "JhgEBg8LABgAbTQ0",
+        "HAsbYwQVYxQUbQ==",
+        "Pxobaxsdbbo="
+    }
 }
-
